@@ -1,1 +1,4 @@
-
+Let's make a game!
+  name: Apple Clicker Idle Game
+  by: ENGINEERER554
+  desc: An idle game about clicking an apple to gain apples.
