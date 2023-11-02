@@ -5,4 +5,4 @@ Let's make a game!
 
 
 Settings
-  spritesheet:Grass, 24 by 24, https://images.app.goo.gl/xL5CNopQodmuYX776
+  spritesheet:grass, 24 by 24, https://images.app.goo.gl/xL5CNopQodmuYX776
