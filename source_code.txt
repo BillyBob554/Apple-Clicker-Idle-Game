@@ -5,4 +5,4 @@ Let's make a game!
 
 
 Settings
-  Background:https://images.app.goo.gl/uSc27oT8HiYBde4m8
+  spritesheet:Grass, 48 by 48, https://images.app.goo.gl/xL5CNopQodmuYX776
