@@ -3,5 +3,7 @@ Let's make a game!
   by: ENGINEERER554
   desc: An idle game about clicking an apple to gain apples.
 
-
+Settings
+  background:Assets/images (3).jpeg
+  spritesheet:apple, 48 by 48, Assets/download__7_-removebg-preview.png
 
