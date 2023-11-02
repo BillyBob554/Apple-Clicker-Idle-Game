@@ -5,4 +5,4 @@ Let's make a game!
 
 
 Settings
-  spritesheet:grass, 24 by 24, https://ibb.co/r3kpfp4.png
+  spritesheet:apple, 48 by 48, Assets/download__7_-removebg-preview.png
