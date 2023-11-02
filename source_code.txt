@@ -5,5 +5,5 @@ Let's make a game!
 
 
 Settings
-  Background:/Assets/images(3).jpeg
+  Background:Assets/images (3).jpeg
   
