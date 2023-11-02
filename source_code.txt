@@ -5,4 +5,5 @@ Let's make a game!
 
 
 Settings
+  background:Assets/images (3).jpeg
   spritesheet:apple, 48 by 48, Assets/download__7_-removebg-preview.png
