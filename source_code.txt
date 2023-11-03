@@ -4,13 +4,4 @@ Let's make a game!
   desc: An idle game about clicking an apple to gain apples.
 
 Settings
-  background:Assets/images (3).jpeg
-  spritesheet:apple, 48 by 48, Assets/download__7_-removebg-preview.png
-
-
-*scratchNose
-  name:Scratch nose
-  desc:Click this to scratch your nose. Grants 1 satisfaction per click.
-  on click:yield 1 satisfaction
-
-
+  background:https://file.garden/ZUTzAFqDEGvQiF1l/download%20(8).jpeg
